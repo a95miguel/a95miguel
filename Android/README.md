@@ -24,16 +24,16 @@ Pulse sobre el boton para conocer más detalles de cada uno de ellas.
  <br>
 <h3 align="center">Ideas Rapidas</h3>
 <div align="center">                                       
-<a href="https://github.com/a95miguel/a95miguel/tree/main/Android" target="_blank"><img src="/Android/IdeasRapidas/img/img1.jpg" width="300" height="200" alt="Control"></a>
+<a href="https://github.com/a95miguel/a95miguel/tree/main/Android" target="_blank"><img src="/Android/IdeasRapidas/img/img1.jpg" width="200"  alt="ideasRapidas"></a>
 <br>
 <p>
 <a href="https://github.com/a95miguel/a95miguel/tree/main/Android/IdeasRapidas" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Diseñada para ayudarte a capturar y organizar tus ideas de manera rápida y sencilla. Con esta práctica herramienta, podrás tomar notas sobre cualquier tema en cualquier momento y lugar, asegurándote de que ninguna idea valiosa se pierda nunca.</p>
+</p> Diseñada para ayudarte a capturar y organizar tus ideas de manera rápida y sencilla. Con esta práctica herramienta, podrás tomar notas sobre cualquier tema en cualquier momento y lugar, asegurándote de que ninguna idea valiosa se pierda nunca.</p>
 <h4>Tecnologías</h4>
-<p>| Android Studio | Kotlin | xml | SharedPreferences |</p>
+<p>| Android Studio | Kotlin | xml | SharedPreferences | Firebase Authentication and Realtime |</p>
 </div>                                                                                                                                             
 </div>
 </td>
