@@ -8,9 +8,9 @@ Pulse sobre el boton para conocer más detalles de cada uno de ellas.
 <td width="50%">
 <h3 align="center">Soft Restaurant</h3>
 <div align="center">
-<a href="https://github.com/a95miguel/proyectos/tree/main/Php" target="_blank"><img src="/Php/SoftRestaurant/src/img1.jpg" width="300" height="200" alt="calculadora"></a>
+<a href="https://github.com/a95miguel/a95miguel/tree/main/Php" target="_blank"><img src="/Php/SoftRestaurant/src/img1.jpg" width="300" height="200" alt="calculadora"></a>
 <p>
-<a href="https://github.com/a95miguel/proyectos/tree/main/Php/SoftRestaurant" target="_blank">
+<a href="https://github.com/a95miguel/a95miguel/tree/main/Php/SoftRestaurant" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -26,10 +26,10 @@ Pulse sobre el boton para conocer más detalles de cada uno de ellas.
 # Ver otro proyectos en otros lenguajes de programación.
 Seleccione la imagen para ver los proyectos.
 
-<a href="https://github.com/a95miguel/proyectos/tree/main/Android" >
+<a href="https://github.com/a95miguel/a95miguel/tree/main/Android" >
   <img align="left" alt="Android" width="100px" src="/icon/android.svg" />
 </a>
 
-<a href="https://github.com/a95miguel/proyectos/tree/main/Java" >
+<a href="https://github.com/a95miguel/a95miguel/tree/main/Java" >
   <img align="left" alt="Php" width="100px" src="/icon/java.svg" />
 </a>
