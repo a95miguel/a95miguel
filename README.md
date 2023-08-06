@@ -2,11 +2,11 @@
 
 ![image](/icon/Banner.png)
 ## 👨🏻‍💻 &nbsp;Acerca  de mi
-Soy un joven desarrollador que está interesado principalmente en la tecnología web y móvil especialmente en el desarrollo de backend.  
-Tengo experiencia trabajando en proyectos con lenguajes de programación como java, php, mysql, android.
+"¡Hola! Soy un apasionado joven desarrollador enfocado en la tecnología web y móvil, con un especial interés en el desarrollo de backend. Mi experiencia abarca diversos lenguajes de programación como Java, PHP, MySQL y Android, lo que me ha permitido trabajar en proyectos emocionantes y desafiantes.
 
-Este campo de la tecnología es un mundo de constante aprendizaje, por eso estudio con libros y plataformas online en temas que complementen mis habilidades.
-Estoy ansioso por descubrir nuevos proyectos que me ayuden a crecer profesionalmente.
+Considero la tecnología como un mundo en constante evolución, y siempre estoy buscando oportunidades para expandir mis habilidades. Para lograr esto, me sumerjo en libros y plataformas de aprendizaje en línea para estar al día con las últimas tendencias y prácticas en el campo.
+
+Siempre estoy abierto a nuevas oportunidades y colaboraciones, así que no dudes en contactarme si quieres discutir ideas o proyectos interesantes. ¡Estoy listo para seguir creciendo y evolucionando en este emocionante campo tecnológico!"
 
 ## 🛠 &nbsp;Algunos de mis repositorios
 - **[JAVA](https://github.com/a95miguel/a95miguel/tree/main/Java)**  
@@ -22,9 +22,9 @@ Estoy ansioso por descubrir nuevos proyectos que me ayuden a crecer profesionalm
 
 ## 🤝🏻 &nbsp;Contacto
 <p align="center">
-<a href="https://www.linkedin.com/in/miguel-medel-b65a43144" target="_blank"><img src="https://img.shields.io/badge/-Miguel%20Medel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/miguel-medel-b65a43144"  target="_blank"><img src="https://img.shields.io/badge/-Miguel%20Medel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:miguelmedellozada@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-miguelmedellozada@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="tel:2825552112" target="_blank"><img src="https://img.shields.io/badge/tel-282%20555%202112-yellow"/></a>
-<a href="https://cedulaprofesional.sep.gob.mx/cedula/indexAvanzada.action?idCedula=11645043&idProfesionista=11712547&token=DE617C38B3391C947376665E6245F04D9FE11F3C" target="_blank"><img src="https://img.shields.io/badge/C%C3%A9dula%20-profesional-blue"/></a>
+<a href="tel:2825552112"  target="_blank"><img src="https://img.shields.io/badge/tel-282%20555%202112-yellow"/></a>
+<a href="https://cedulaprofesional.sep.gob.mx/cedula/indexAvanzada.action?idCedula=11645043&idProfesionista=11712547&token=DE617C38B3391C947376665E6245F04D9FE11F3C"  target="_blank"><img src="https://img.shields.io/badge/C%C3%A9dula%20-profesional-blue"/></a>
 </p>
 
