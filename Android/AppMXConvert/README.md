@@ -23,5 +23,5 @@ Para descargar aplicacion seleccione aqui -------->  [app-debug.apk](src/app-deb
 
 La descarga se iniciará automáticamente. Luego, instálelo en su dispositivo Android. Abra la aplicación. Eso es todo.
 
-## Desarrolladora principal
+## Desarrollador principal
 Miguel Medel 
