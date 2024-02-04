@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MX Convert</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <!-- Board String-->
+    <string name="title_one">Indica la cantidad </string>
+    <string name="title_two">Elige tu moneda</string>
+    <string name="title_three">¡Y eso es todo !</string>
+    <string name="subtitle_one">Simplemente escribe en el campo cuanto quieres convertir</string>
+    <string name="subtitle_two">Haz clic en el menú desplegable para seleccionar las monedas entre las que quieres convertir</string>
+    <string name="subtitle_three">Nuestro conversor de moneda mostrara el tipo de cambio actual</string>
+    <string name="end">Finalizar</string>
+    <string name="selected">Seleccionar</string>
+    <string name="convert">Convertir</string>
+    <string name="amount">Monto</string>
+    <string name="reConvert">Re-Calcular</string>
+    <string name="errorValue">Ingresa un monto</string>
+    <string name="info">Tu conversion es de</string>
+    <string name="internet">Verefique su internet</string>
+    <string name="exit">Salir App</string>
+    <string name="exit_info">Seguro que quieres salir</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+</resources>

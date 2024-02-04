@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GardenInfo Medel</string>
+    <string name="add_data">Add data</string>
+    <string name="update_data">Update data</string>
+    <string name="et_name">Name</string>
+    <string name="et_detail">Details</string>
+    <string name="et_price">Price</string>
+    <string name="btn_add">Add</string>
+    <string name="erro_toast_select_image">Select an image</string>
+    <string name="error_msj_add_name">Enter the name</string>
+    <string name="msj_error_not_number">Cannot contain numbers or other characters</string>
+    <string name="msj_error_not_caracte">Cannot enter characters</string>
+    <string name="msj_error_add_price">Enter the price</string>
+    <string name="msj_error_valid_price">Validate the price</string>
+    <string name="not_conect_Internet">No internet connection</string>
+    <string name="msg_dialog_add_data">Adding data</string>
+    <string name="msj_error_return">Error, please try again</string>
+    <string name="msg_dialog_update_data">Updating data</string>
+    <string name="btn_Update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="text_delete_confirm">Are you sure you want to delete the data?</string>
+    <string name="msj_not_data_null">No data available</string>
+    <string name="close_app">Log out</string>
+    <string name="confirm_close_app">Are you sure you want to log out?</string>
+    <string name="msg_dialog_delete_data">Deleting data</string>
+    <string name="log_in">Log in Anonymous mode</string>
+    <string name="confirm_permission">Accept permission to use image storage</string>
+    <string name="text_seach">Search</string>
+    <string name="btn_confirm">Accept</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="null_data_room">No data, connect to the internet</string>
+    <string name="error_full_image">Image upload failed, please try again</string>
+</resources>
