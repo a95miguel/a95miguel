@@ -6,6 +6,21 @@ Pulse sobre el boton para conocer más detalles de cada uno de ellas.
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">Garden Info Medel</h3>
+<div align="center">
+<a href="https://github.com/a95miguel/a95miguel/tree/main/Android" target="_blank"><img src="/Android/GardenInfo/img/ima.png" width="200" alt="MX Convert"></a>
+<p>
+<a href="https://github.com/a95miguel/a95miguel/tree/main/Android/GardenInfo" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Esta deseñado para la informacion de las plantas.Con esta aplicación, puedes gestionar fácilmente la información de las plantas mediante un sistema CRUD (Crear, Leer, Actualizar, Eliminar) para productos relacionados con la jardinería.</p>
+<h4>Tecnologías</h4>
+<p>| Android Studio | Kotlin | Jetpack Compose | Firebase| ROOM | MVVM | Dagger hilt |</p>
+</div>                                                                                      
+</td>
+
+<td width="50%">
 <h3 align="center">MX CONVERT</h3>
 <div align="center">
 <a href="https://github.com/a95miguel/a95miguel/tree/main/Android" target="_blank"><img src="/Android/AppMXConvert/src/Example1.png" width="200" alt="MX Convert"></a>
@@ -19,7 +34,10 @@ Pulse sobre el boton para conocer más detalles de cada uno de ellas.
 <p>| Android Studio | Kotlin | Retrofit | xml | MVVM |</p>
 </div>                                                                                      
 </td>
+</tr>
 
+
+<tr>
 <td width="50%">
  <br>
 <h3 align="center">Ideas Rapidas</h3>
@@ -37,7 +55,8 @@ Pulse sobre el boton para conocer más detalles de cada uno de ellas.
 </div>                                                                                                                                             
 </div>
 </td>
-</tr>
+
+
 </table>
 
 # Ver otro proyectos en otros lenguajes de programación.
