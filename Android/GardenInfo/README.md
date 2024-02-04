@@ -13,16 +13,16 @@ Incluye soporte de modo oscuro, mejorando la experiencia del usuario en condicio
 ## Ejemplo breve de uso
 
 <p float="left" align="middle">
-  <img src="/Android/GardenInfo/img/img1.jpg" width="200" hspace="10"/>
-  <img src="/Android/GardenInfo/img/img2.jpg" width="200" hspace="10"/>
-  <img src="/Android/GardenInfo/img/img3.jpg" width="200" hspace="10"/>
-  <img src="/Android/GardenInfo/img/img4.jpg" width="200" hspace="10"/>
-  <img src="/Android/GardenInfo/img/img5.jpg" width="200" hspace="10"/>
-  <img src="/Android/GardenInfo/img/img6.jpg" width="200" hspace="10"/>
-  <img src="/Android/GardenInfo/img/img7.jpg" width="200" hspace="10"/>
-  <img src="/Android/GardenInfo/img/img8.jpg" width="200" hspace="10"/>
-  <img src="/Android/GardenInfo/img/img9.jpg" width="200" hspace="10"/>
-  <img src="/Android/GardenInfo/img/img10.jpg" width="200" hspace="10"/>
+  <img src="/Android/GardenInfo/img/img1.png" width="200" hspace="10"/>
+  <img src="/Android/GardenInfo/img/img2.png" width="200" hspace="10"/>
+  <img src="/Android/GardenInfo/img/img3.png" width="200" hspace="10"/>
+  <img src="/Android/GardenInfo/img/img4.png" width="200" hspace="10"/>
+  <img src="/Android/GardenInfo/img/img5.png" width="200" hspace="10"/>
+  <img src="/Android/GardenInfo/img/img6.png" width="200" hspace="10"/>
+  <img src="/Android/GardenInfo/img/img7.png" width="200" hspace="10"/>
+  <img src="/Android/GardenInfo/img/img8.png" width="200" hspace="10"/>
+  <img src="/Android/GardenInfo/img/img9.png" width="200" hspace="10"/>
+  <img src="/Android/GardenInfo/img/img10.png" width="200" hspace="10"/>
 </p>
 
 ## Desarrollador principal
