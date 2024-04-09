@@ -1,33 +1,34 @@
 <resources>
-    <string name="app_name">InfoJardín Medel</string>
-    <string name="add_data">Añadir datos</string>
-    <string name="update_data">Actualizar datos</string>
-    <string name="et_name">Nombre</string>
-    <string name="et_detail">Detalles</string>
-    <string name="et_price">Precio</string>
-    <string name="btn_add">Agregar</string>
-    <string name="erro_toast_select_image">Seleccione una imagen</string>
-    <string name="error_msj_add_name">Ingrese el nombre</string>
-    <string name="msj_error_not_number">No puede contener números o otros caracteres</string>
-    <string name="msj_error_not_caracte">No puede ingresar caracteres</string>
-    <string name="msj_error_add_price">Ingrese el precio</string>
-    <string name="msj_error_valid_price">Valide el precio</string>
-    <string name="not_conect_Internet">No hay conexion a internet</string>
-    <string name="msg_dialog_add_data">Agregando los datos</string>
-    <string name="msj_error_return">Error vuelva intentar  otra vez</string>
-    <string name="msg_dialog_update_data">Actualizando los datos</string>
-    <string name="btn_Update">Actualizar</string>
-    <string name="btn_delete">Eliminar</string>
-    <string name="text_delete_confirm">¿Estas seguro que deseas eliminar el dato?</string>
-    <string name="msj_not_data_null">No hay datos disponibles</string>
-    <string name="close_app">Cerrar sesión</string>
-    <string name="confirm_close_app">¿Estás seguro que deseas cerrar sesión?</string>
-    <string name="msg_dialog_delete_data">Eliminando los datos</string>
-    <string name="log_in">Iniciar sesion modo Anónimo</string>
-    <string name="confirm_permission">Acepte el permiso para utlizar el almacenamiento de imágenes</string>
-    <string name="text_seach">Buscar</string>
-    <string name="btn_confirm">Aceptar</string>
-    <string name="btn_cancel">Cancelar</string>
-    <string name="null_data_room">No hay datos, conectase a internet</string>
-    <string name="error_full_image">Error en la carga de imagen, vuelva a intentar</string>
+    <string name="app_name" translatable="false">InfoJardín Medel</string>
+    <string name="add_data" translatable="false">Añadir datos</string>
+    <string name="update_data" translatable="false">Actualizar datos</string>
+    <string name="et_name" translatable="false">Nombre</string>
+    <string name="et_detail" translatable="false">Detalles</string>
+    <string name="et_price" translatable="false">Precio</string>
+    <string name="btn_add" translatable="false">Agregar</string>
+    <string name="erro_toast_select_image" translatable="false">Seleccione una imagen</string>
+    <string name="error_msj_add_name" translatable="false">Ingrese el nombre</string>
+    <string name="msj_error_not_number" translatable="false">No puede contener números o otros caracteres</string>
+    <string name="msj_error_not_caracte" translatable="false">No puede ingresar caracteres</string>
+    <string name="msj_error_add_price" translatable="false">Ingrese el precio</string>
+    <string name="msj_error_valid_price" translatable="false">Valide el precio</string>
+    <string name="not_conect_Internet" translatable="false">No hay conexion a internet</string>
+    <string name="msg_dialog_add_data" translatable="false">Agregando los datos</string>
+    <string name="msj_error_return" translatable="false">Error vuelva intentar  otra vez</string>
+    <string name="msg_dialog_update_data" translatable="false">Actualizando los datos</string>
+    <string name="btn_Update" translatable="false">Actualizar</string>
+    <string name="btn_delete" translatable="false">Eliminar</string>
+    <string name="text_delete_confirm" translatable="false">¿Estas seguro que deseas eliminar el dato?</string>
+    <string name="msj_not_data_null" translatable="false">No hay datos disponibles</string>
+    <string name="close_app" translatable="false">Cerrar sesión</string>
+    <string name="confirm_close_app" translatable="false">¿Estás seguro que deseas cerrar sesión?</string>
+    <string name="msg_dialog_delete_data" translatable="false">Eliminando los datos</string>
+    <string name="log_in" translatable="false">Iniciar sesion modo Anónimo</string>
+    <string name="confirm_permission" translatable="false">Acepte el permiso para utlizar el almacenamiento de imágenes</string>
+    <string name="confirm_permission_two" translatable="false">Se requiere permiso de almacenamientos de imagenes para que esta función esté disponible. Por favor conceda el permiso</string>
+    <string name="text_seach" translatable="false">Buscar</string>
+    <string name="btn_confirm" translatable="false">Aceptar</string>
+    <string name="btn_cancel" translatable="false">Cancelar</string>
+    <string name="null_data_room" translatable="false">No hay datos, conectase a internet</string>
+    <string name="error_full_image" translatable="false">Error en la carga de imagen, vuelva a intentar</string>
 </resources>

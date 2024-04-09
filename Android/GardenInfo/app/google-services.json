@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "966253307218",
+    "firebase_url": "https://plantasvivero-a08d1-default-rtdb.firebaseio.com",
+    "project_id": "plantasvivero-a08d1",
+    "storage_bucket": "plantasvivero-a08d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966253307218:android:e3864c47255d331033868b",
+        "android_client_info": {
+          "package_name": "com.example.vivero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ6YCnl24tKYuCY6iR8WHVbpApyVKMwG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966253307218:android:17739e3a615207b933868b",
+        "android_client_info": {
+          "package_name": "com.medel.vivero_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ6YCnl24tKYuCY6iR8WHVbpApyVKMwG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

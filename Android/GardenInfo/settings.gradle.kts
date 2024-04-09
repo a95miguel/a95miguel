@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Vivero"
+rootProject.name = "Vivero_v1"
 include(":app")
