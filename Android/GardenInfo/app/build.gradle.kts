@@ -114,6 +114,13 @@ dependencies {
     // Permissions
     implementation("com.google.accompanist:accompanist-permissions:0.28.0")
 
+    //Test
+    val mockk_version = "1.13.4"
+    testImplementation ("io.mockk:mockk:$mockk_version")
+    androidTestImplementation ("androidx.work:work-testing:2.8.0")
+    testImplementation ("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.6.4")
+
+
     implementation("androidx.core:core-ktx:1.9.0")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.7.0")
     implementation("androidx.activity:activity-compose:1.8.2")
