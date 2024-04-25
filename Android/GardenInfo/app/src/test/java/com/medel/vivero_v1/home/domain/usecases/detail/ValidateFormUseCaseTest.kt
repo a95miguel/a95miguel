@@ -1,6 +1,5 @@
 package com.medel.vivero_v1.home.domain.usecases.detail
 
-import androidx.room.RoomOpenHelper
 import junit.framework.TestCase.assertEquals
 import org.junit.Test
 

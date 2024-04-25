@@ -17,7 +17,8 @@ import javax.inject.Inject
  */
 @HiltViewModel
 class LoginViewModel @Inject constructor(
-    private val  loginUseCase: LoginUseCase
+    private val  loginUseCase: LoginUseCase,
+    @IoDispatcher private val dispatcher: CoroutineDispatcher //Test
 ): ViewModel(){
     var state by mutableStateOf(LoginState())
         private set
@@ -42,7 +43,7 @@ class LoginViewModel @Inject constructor(
             isLoading = true
         )
 
-        viewModelScope.launch {
+        viewModelScope.launch(dispatcher) {
             loginUseCase.invoke().onSuccess {
                 state = state.copy(
                     isLoggedIn = true
