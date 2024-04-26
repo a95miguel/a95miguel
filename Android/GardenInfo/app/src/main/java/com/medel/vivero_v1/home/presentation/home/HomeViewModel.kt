@@ -3,6 +3,7 @@ package com.medel.vivero_v1.home.presentation.home
 import android.util.Log
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.medel.vivero_v1.authentication.core.di.IoDispatcher
 import com.medel.vivero_v1.home.domain.usecases.home.HomeUseCases
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
@@ -13,7 +14,8 @@ import javax.inject.Inject
 
 @HiltViewModel
 class HomeViewModel @Inject constructor(
-    private val homeUseCases: HomeUseCases
+    private val homeUseCases: HomeUseCases,
+    @IoDispatcher private val dispatcher : CoroutineDispatcher//test
 ) : ViewModel(){
 
     private val _state = MutableStateFlow(HomeState())
@@ -83,7 +85,7 @@ class HomeViewModel @Inject constructor(
         _state.value = _state.value.copy(
             isLoadingDelete = true
         )
-        viewModelScope.launch {
+        viewModelScope.launch (dispatcher){
             //Llama el caso de uso  para eliminar y maneja un resultado
             homeUseCases.deleteProductUseCase(_state.value.delete).onSuccess {
                 _state.value = _state.value.copy(
